@@ -1,1 +1,11 @@
-# contosoplay_console_app
+# Contosoplay console app
+
+This app is for leaked credentials demo proposed and blocked for sign-in
+
+{
+    "appSettings": {
+        "TenantId": "59740647-b1ed-4f90-bd15-f378ff73a34a",
+        "AppId": "563f28d8-4cbf-484d-bbc3-ff78939e9ae2",
+        "ClientSecret": ".kc8Q~RFU59JVQKaDOd7Tbk--cpufC8.9BmpbbKP"
+    }
+}
